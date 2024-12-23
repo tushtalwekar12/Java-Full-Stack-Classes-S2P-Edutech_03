@@ -2,10 +2,10 @@ Here’s a detailed **roadmap for Java Full Stack Development**:
 
 ---
 
-## **1. Fundamentals of Programming**
+## **1. Fundamentals of Programming** (Learning...)
    - Understand basic programming concepts:
     variables(x),
-    data types,
+    data types(x),
     loops,
     conditionals, 
     functions.
