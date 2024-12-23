@@ -1,10 +1,10 @@
 // Data Type Example - primitive
 public class Example1{
-    public static void main(String args []){
+    public static void main(String args []) {
         // primitive dataTypes 
         boolean isAdult = true ;   //Boolean returns true or false - size-1bit
         System.out.println("Boolean : "+isAdult);
-        //System.out.println(isAdult.getClass()); //getClass() to determine the type of an object
+        //System.out.println(isAdult.getClass()); //getClass() to determine type of an object
 
         char value1 = 'T'; //size - 2 byte or 16 bits
         System.out.println("Char :"+value1);
